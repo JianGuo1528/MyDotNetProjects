@@ -3,7 +3,7 @@
 namespace MyProject1.UnitTests;
 
 [TestFixture]
-public class MyTest1
+public class SimpleTests
 {
     [SetUp]
     public void Setup()
