@@ -10,6 +10,6 @@ public class Tests
     [Test]
     public void Test1()
     {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!!!");
     }
 }
